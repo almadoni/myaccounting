@@ -1,0 +1,19 @@
+{
+  "name": "myaccounting",
+  "version": "1.0.0",
+  "description": "Simple accounting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almadoni/myaccounting.git"
+  },
+  "author": "Almadoni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almadoni/myaccounting/issues"
+  },
+  "homepage": "https://github.com/almadoni/myaccounting#readme"
+}
